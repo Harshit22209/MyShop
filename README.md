@@ -8,11 +8,19 @@ MyShop-Quick Commerce is a full-stack application built using Java Spring, React
 
 ### General
 - **Register**
+  ![image](https://github.com/Harshit22209/MyShop/assets/119040511/29759d26-3126-4f3e-ac07-ce39da48e75c)
+
 - **Login**
+  ![image](https://github.com/Harshit22209/MyShop/assets/119040511/31e7a365-16f4-4b84-8093-0ffabf72254e)
+
 
 ### Supplier
 - **Add Product**: Suppliers can add new products to the inventory.
+  ![image](https://github.com/Harshit22209/MyShop/assets/119040511/5fd40711-031f-41ad-96fc-eacff1a24788)
+
 - **Products Listed by a Supplier**: View all products added by a supplier.
+  ![image](https://github.com/Harshit22209/MyShop/assets/119040511/ccdf7ed7-f876-4931-9f2b-1c240518161d)
+
 
 ### Retail Manager/Warehouse
 - **Warehouses Managed by Retail Manager**: One-to-many relationship where a manager can manage multiple warehouses.

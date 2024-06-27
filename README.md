@@ -8,6 +8,7 @@ MyShop-Quick Commerce is a full-stack application built using Java Spring, React
 
 ### General
 - **Register**
+  
  ![image](https://github.com/Harshit22209/MyShop/assets/119040511/29759d26-3126-4f3e-ac07-ce39da48e75c)
 
 - **Login**
